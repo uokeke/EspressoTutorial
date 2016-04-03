@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="notes_title">Notes</string>
+    <string name="note_edit_error">Couldn\'t find the note</string>
+    <string name="note_edit_title">Edit Note</string>
+    <string name="note_edit_done">Done</string>
+    <string name="delete_note_title">Delete note?</string>
+</resources>
